@@ -4,6 +4,6 @@ int main(){
 	printf("hello world!\n");
 	printf("liushimin\n");
 	int a ;
-	int b ;
+	int b ;// I love you everyday!
 	return 0;
 }
